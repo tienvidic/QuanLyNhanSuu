@@ -23,7 +23,9 @@ namespace QuanLyNhanSu
         }
 
         private void DisEnl(bool e)
-        {
+        
+{
+//
             btnThem.Enabled = !e;
             btnXoa.Enabled = !e;
             btnSua.Enabled = !e;
