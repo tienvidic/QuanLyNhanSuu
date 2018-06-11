@@ -1,0 +1,18 @@
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\ADMIN\Desktop\project ttn\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\admin\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.pdb
